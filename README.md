@@ -1,3 +1,5 @@
+```
+
 # apache_monitor
 #!/bin/bash
 
@@ -8,3 +10,5 @@ while true; do
         echo $now "-" $cmd
         sleep 30
 done
+
+```
